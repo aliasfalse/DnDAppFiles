@@ -177,7 +177,7 @@
 			</feature>
 			<feature optional="YES">
 				<name>Fighting Style: Blind Fighting</name>
-				<text>Being unable to see a creature doesn't impose disadvantage on your attack rolls against it, provided the creature isn't hidden from you.</name>
+				<text>Being unable to see a creature doesn't impose disadvantage on your attack rolls against it, provided the creature isn't hidden from you.</text>
 			</feature>
 			<feature optional="YES">
 				<name>Fighting Style: Close Quarters Shooter</name>
@@ -189,7 +189,7 @@
 			</feature>
 			<feature optional="YES">
 				<name>Fighting Style: Druidic Warrior</name>
-				<text>You learn two cantrips of your choice from the druid spell list. They count as druid spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.</name>
+				<text>You learn two cantrips of your choice from the druid spell list. They count as druid spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.</text>
 			</feature>
 			<feature optional="YES">
 				<name>Fighting Style: Dueling</name>
@@ -256,7 +256,7 @@
 				<name>Proficiency Versatility</name>
 				<text>4th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
-				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</name>
+				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
 				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
 			</feature>
 		</autolevel>
@@ -284,7 +284,7 @@
 				<name>Proficiency Versatility</name>
 				<text>8th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
-				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</name>
+				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
 				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
 			</feature>
 			<feature>
@@ -305,6 +305,7 @@
 				<text/>
 				<text>You can use a bonus action to magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.</text>
 				<text>	Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+			</feature>
 			<feature>
 				<name>Additional Favored Terrains</name>
 				<text>You gain an additional favored terrain.</text>
@@ -318,7 +319,7 @@
 				<name>Proficiency Versatility</name>
 				<text>12th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
-				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</name>
+				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
 				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
 			</feature>
 		</autolevel>
@@ -340,7 +341,7 @@
 				<name>Proficiency Versatility</name>
 				<text>16th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
-				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</name>
+				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
 				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
 			</feature>
 		</autolevel>
@@ -355,7 +356,7 @@
 				<name>Proficiency Versatility</name>
 				<text>19th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
-				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</name>
+				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
 				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
 			</feature>
 		</autolevel>
