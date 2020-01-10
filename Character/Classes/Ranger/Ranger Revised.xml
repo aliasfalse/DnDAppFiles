@@ -128,11 +128,11 @@
 				<name>Fighting Style: Archery</name>
 				<text>You gain a +2 bonus to attack rolls you make with ranged weapons.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Blind Fighting</name>
 				<text>Being unable to see a creature doesn't impose disadvantage on your attack rolls against it, provided the creature isn't hidden from you.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Close Quarters Shooter</name>
 				<text>When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.</text>
 			</feature>
@@ -140,7 +140,7 @@
 				<name>Fighting Style: Defense</name>
 				<text>While you are wearing armor, you gain a +1 bonus to AC.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Druidic Warrior</name>
 				<text>You learn two cantrips of your choice from the druid spell list. They count as druid spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.</text>
 			</feature>
@@ -148,20 +148,20 @@
 				<name>Fighting Style: Dueling</name>
 				<text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Interception</name>
 				<text>When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Mariner</name>
 				<text>As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Thrown Weapon Fighting</name>
 				<text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</text>
 				<text>	In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Tunnel Fighter</name>
 				<text>As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.</text>
 			</feature>
@@ -169,7 +169,7 @@
 				<name>Fighting Style: Two-Weapon Fighting</name>
 				<text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Unarmed Fighting</name>
 				<text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.</text>
 				<text>	When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.</text>
@@ -217,7 +217,7 @@
 			<!-- Archetype features -->
 		</autolevel>
 		<autolevel level="4" scoreImprovement="YES">
-			<feature>
+			<feature optional="YES" UA="UA">
 				<name>Proficiency Versatility</name>
 				<text>4th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
@@ -243,7 +243,7 @@
 				<name>Fleet of Foot</name>
 				<text>Beginning at 8th level, you can use the Dash action as a bonus action on your turn.</text>
 			</feature>
-			<feature>
+			<feature optional="YES" UA="UA">
 				<name>Proficiency Versatility</name>
 				<text>8th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
@@ -263,7 +263,7 @@
 			<!-- Archetype features -->
 		</autolevel>
 		<autolevel level="12" scoreImprovement="YES">
-			<feature>
+			<feature optional="YES" UA="UA">
 				<name>Proficiency Versatility</name>
 				<text>12th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
@@ -281,7 +281,7 @@
 			<!-- Archetype features -->
 		</autolevel>
 		<autolevel level="16" scoreImprovement="YES">
-			<feature>
+			<feature optional="YES" UA="UA">
 				<name>Proficiency Versatility</name>
 				<text>16th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
@@ -297,7 +297,7 @@
 			</feature>
 		</autolevel>
 		<autolevel level="19" scoreImprovement="YES">
-			<feature>
+			<feature optional="YES" UA="UA">
 				<name>Proficiency Versatility</name>
 				<text>19th-level feature (enhances Ability Score Improvement)</text>
 				<text/>

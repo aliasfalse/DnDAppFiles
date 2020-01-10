@@ -100,7 +100,7 @@
 				<text>	When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.</text>
 				<text>	You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</text>
 			</feature>
-			<feature>
+			<feature optional="YES" UA="UA">
 				<name>Favored Foe</name>
 				<text>1st-level ranger feature (replaces Favored Enemy)</text>
 				<text/>
@@ -121,22 +121,22 @@
 				<text/>
 				<text>	You choose additional favored terrain types at 6th and 10th level.</text>
 			</feature>
-			<feature>
+			<feature optional="YES" UA="UA">
 				<name>Deft Explorer</name>
 				<text>1st-level ranger feature (replaces Natural Explorer)</text>
 				<text/>
 				<text>You are an unsurpassed explorer and survivor. Choose one of the following benefits, and then choose another one at 6th and 10th level.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Canny</name>
 				<text>Choose one skill: Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don't already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
 				<text>	In addition, thanks to your extensive wandering, you are able to speak, read, and write two languages of your choice.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Roving</name>
 				<text>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Tireless</name>
 				<text>As an action, you can give yourself a number of temporary hit points equal to 1d10 + your Wisdom modifier. You can use this special action a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
 				<text>	In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</text>
@@ -161,7 +161,7 @@
 				<text>	Spell save DC = 8 + your proficiency bonus + your Wisdom modifier</text>
 				<text>	Spell attack modifier = your proficiency bonus + your Wisdom modifier</text>
 			</feature>
-			<feature>
+			<feature optional="YES" UA="UA">
 				<name>Spell Versatility</name>
 				<text>2nd-level ranger feature (enhances Spellcasting)</text>
 				<text/>
@@ -175,11 +175,11 @@
 				<name>Fighting Style: Archery</name>
 				<text>You gain a +2 bonus to attack rolls you make with ranged weapons.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Blind Fighting</name>
 				<text>Being unable to see a creature doesn't impose disadvantage on your attack rolls against it, provided the creature isn't hidden from you.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Close Quarters Shooter</name>
 				<text>When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.</text>
 			</feature>
@@ -187,7 +187,7 @@
 				<name>Fighting Style: Defense</name>
 				<text>While you are wearing armor, you gain a +1 bonus to AC.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Druidic Warrior</name>
 				<text>You learn two cantrips of your choice from the druid spell list. They count as druid spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.</text>
 			</feature>
@@ -195,20 +195,20 @@
 				<name>Fighting Style: Dueling</name>
 				<text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Interception</name>
 				<text>When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Mariner</name>
 				<text>As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Thrown Weapon Fighting</name>
 				<text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</text>
 				<text>	In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Tunnel Fighter</name>
 				<text>As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.</text>
 			</feature>
@@ -216,12 +216,12 @@
 				<name>Fighting Style: Two-Weapon Fighting</name>
 				<text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
 			</feature>
-			<feature optional="YES">
+			<feature optional="YES" UA="UA">
 				<name>Fighting Style: Unarmed Fighting</name>
 				<text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.</text>
 				<text>	When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.</text>
 			</feature>
-			<feature>
+			<feature optional="YES" UA="UA">
 				<name>Martial Versatility</name>
 				<text>2nd-level feature (enhances Fighting Style)</text>
 				<text/>
@@ -237,7 +237,7 @@
 				<name>Primeval Awareness</name>
 				<text>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.</text>
 			</feature>
-			<feature>
+			<feature optional="YES" UA="UA">
 				<name>Primal Awareness</name>
 				<text>3rd-level ranger feature (replaces Primeval Awareness)</text>
 				<text/>
@@ -251,8 +251,8 @@
 			</feature>
 			<!-- Archetype features -->
 		</autolevel>
-		<autolevel level="4">
-			<feature>
+		<autolevel level="4" scoreImprovement="YES">
+			<feature optional="YES" UA="UA">
 				<name>Proficiency Versatility</name>
 				<text>4th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
@@ -271,6 +271,20 @@
 				<name>Additional Favored Terrains</name>
 				<text>You gain an additional favored terrain.</text>
 			</feature>
+			<feature optional="YES" UA="UA">
+				<name>Canny</name>
+				<text>Choose one skill: Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don't already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
+				<text>	In addition, thanks to your extensive wandering, you are able to speak, read, and write two languages of your choice.</text>
+			</feature>
+			<feature optional="YES" UA="UA">
+				<name>Roving</name>
+				<text>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</text>
+			</feature>
+			<feature optional="YES" UA="UA">
+				<name>Tireless</name>
+				<text>As an action, you can give yourself a number of temporary hit points equal to 1d10 + your Wisdom modifier. You can use this special action a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
+				<text>	In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</text>
+			</feature>
 			<feature>
 				<name>Additional Favored Enemy</name>
 				<text>You choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.</text>
@@ -279,8 +293,8 @@
 		<autolevel level="7">
 			<!-- Archetype features -->
 		</autolevel>
-		<autolevel level="8">
-			<feature>
+		<autolevel level="8" scoreImprovement="YES">
+			<feature optional="YES" UA="UA">
 				<name>Proficiency Versatility</name>
 				<text>8th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
@@ -299,7 +313,7 @@
 				<text>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.</text>
 				<text>	Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.</text>
 			</feature>
-			<feature>
+			<feature optional="YES" UA="UA">
 				<name>Fade Away</name>
 				<text>10th-level ranger feature (replaces Hide in Plain Sight)</text>
 				<text/>
@@ -310,12 +324,26 @@
 				<name>Additional Favored Terrains</name>
 				<text>You gain an additional favored terrain.</text>
 			</feature>
+			<feature optional="YES" UA="UA">
+				<name>Canny</name>
+				<text>Choose one skill: Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don't already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
+				<text>	In addition, thanks to your extensive wandering, you are able to speak, read, and write two languages of your choice.</text>
+			</feature>
+			<feature optional="YES" UA="UA">
+				<name>Roving</name>
+				<text>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</text>
+			</feature>
+			<feature optional="YES" UA="UA">
+				<name>Tireless</name>
+				<text>As an action, you can give yourself a number of temporary hit points equal to 1d10 + your Wisdom modifier. You can use this special action a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
+				<text>	In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</text>
+			</feature>
 		</autolevel>
 		<autolevel level="11">
 			<!-- Archetype features -->
 		</autolevel>
-		<autolevel level="12">
-			<feature>
+		<autolevel level="12" scoreImprovement="YES">
+			<feature optional="YES" UA="UA">
 				<name>Proficiency Versatility</name>
 				<text>12th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
@@ -336,8 +364,8 @@
 		<autolevel level="15">
 			<!-- Archetype features -->
 		</autolevel>
-		<autolevel level="16">
-			<feature>
+		<autolevel level="16" scoreImprovement="YES">
+			<feature optional="YES" UA="UA">
 				<name>Proficiency Versatility</name>
 				<text>16th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
@@ -351,8 +379,8 @@
 				<text>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.</text>
 			</feature>
 		</autolevel>
-		<autolevel level="19">
-			<feature>
+		<autolevel level="19" scoreImprovement="YES">
+			<feature optional="YES" UA="UA">
 				<name>Proficiency Versatility</name>
 				<text>19th-level feature (enhances Ability Score Improvement)</text>
 				<text/>
@@ -364,25 +392,6 @@
 			<feature>
 				<name>Foe Slayer</name>
 				<text>At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.</text>
-			</feature>
-		</autolevel>
-		<!--Unearthed Arcana-->
-		<autolevel level="2">
-			<feature optional="YES" UA="UA">
-				<name>Fighting Style: Close Quarters Shooter</name>
-				<text>When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.</text>
-				<text/>
-				<text>This Fighting Style is from Unearthed Arcana: Light, Dark, Underdark!, and as such may not be allowed in your game. Consult your DM before choosing this option.</text>
-			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Fighting Style: Mariner</name>
-				<text>As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.</text>
-				<text/>
-				<text>This Fighting Style is from Unearthed Arcana: Watborne Adventures, and as such may not be allowed in your game. Consult your DM before choosing this option.</text>
-			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Fighting Style: Tunnel Fighter</name>
-				<text>As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.</text>
 			</feature>
 		</autolevel>
 	</baseclass>
