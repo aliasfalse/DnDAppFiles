@@ -395,4 +395,13 @@
 			</feature>
 		</autolevel>
 	</baseclass>
+	<spellList class="Ranger (Variant)">
+		<index name="detect magic"/>
+		<index name="speak with animals"/>
+		<index name="beast sense"/>
+		<index name="locate animals or plants"/>
+		<index name="speak with plants"/>
+		<index name="locate creature"/>
+		<index name="commune with nature"/>
+	</spellList>
 </compendium>
