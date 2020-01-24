@@ -395,7 +395,7 @@
 			</feature>
 		</autolevel>
 	</baseclass>
-	<spellList class="Ranger (Variant)">
+	<spellList class="Primal Awareness">
 		<index name="detect magic"/>
 		<index name="speak with animals"/>
 		<index name="beast sense"/>
@@ -403,5 +403,22 @@
 		<index name="speak with plants"/>
 		<index name="locate creature"/>
 		<index name="commune with nature"/>
+	</spellList>
+	<spellList class="Ranger (Variant)">
+		<index name="entangle"/>
+		<index name="searing smite"/>
+		<index name="aid"/>
+		<index name="enhance ability"/>
+		<index name="gust of wind"/>
+		<index name="magic weapon"/>
+		<index name="warding bond"/>
+		<index name="blinding smite"/>
+		<index name="meld into stone"/>
+		<index name="revivify"/>
+		<index name="tongues"/>
+		<index name="death ward"/>
+		<index name="dominate beast"/>
+		<index name="awaken"/>
+		<index name="greater restoration"/>
 	</spellList>
 </compendium>
