@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+    <subclass baseclass="Ranger" UA="UA">
+        <name>Ranger Variant</name>
+        <autolevel level="1">
+            <feature optional="YES">
+				<name>Favored Foe</name>
+				<text>(Replaces Favored Enemy)</text>
+				<text/>
+				<text>You can call on your bond with nature to mark a creature as your favored enemy for a time: you know the hunter's mark spell, and Wisdom is your spellcasting ability for it. You can use it a certain number of times without expending a spell slot and without requiring concentration a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
+				<text>	When you gain the Spellcasting feature at 2nd level, hunter's mark doesn't count against the number of ranger spells you know.</text>
+			</feature>
+            <feature optional="YES">
+				<name>Deft Explorer</name>
+				<text>(Replaces Natural Explorer)</text>
+				<text/>
+				<text>You are an unsurpassed explorer and survivor. Choose one of the following benefits, and then choose another one at 6th and 10th level.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Canny</name>
+				<text>Choose one skill: Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don't already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
+				<text>	In addition, thanks to your extensive wandering, you are able to speak, read, and write two languages of your choice.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Roving</name>
+				<text>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Tireless</name>
+				<text>As an action, you can give yourself a number of temporary hit points equal to 1d10 + your Wisdom modifier. You can use this special action a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
+				<text>	In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</text>
+			</feature>
+        </autolevel>
+        <autolevel level="2">
+            <feature optional="YES">
+				<name>Spell Versatility</name>
+				<text>(Enhances Spellcasting)</text>
+				<text/>
+				<text>Whenever you finish a long rest, you can replace one spell you learned from this Spellcasting feature with another spell from the ranger spell list. The new spell must be the same level as the spell you replace.</text>
+			</feature>
+            <feature optional="YES">
+				<name>Martial Versatility</name>
+				<text>(Enhances Fighting Style)</text>
+				<text/>
+				<text>Whenever you gain a level in this class, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style.</text>
+			</feature>
+        </autolevel>
+        <autolevel level="3">
+            <feature optional="YES">
+				<name>Primal Awareness</name>
+				<text>(Replaces Primeval Awareness)</text>
+				<text/>
+				<text>You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don't already know them, as shown in the Primal Awareness Spells table. These spells don't count against the number of ranger spells you know.</text>
+				<text/>
+				<text>3rd - detect magic, speak with animals</text>
+				<text>5th - beast sense, locate animals or plants</text>
+				<text>9th - speak with plants</text>
+				<text>13th - locate creature</text>
+				<text>17th - commune with nature</text>
+			</feature>
+        </autolevel>
+        <autolevel level="4">
+            <feature optional="YES">
+				<name>Proficiency Versatility</name>
+				<text>(Enhances Ability Score Improvement)</text>
+				<text/>
+				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
+			</feature>
+        </autolevel>
+        <autolevel level="6">
+            <feature optional="YES">
+                <name>Additional Deft Explorer Trait</name>
+                <text>You gain an additional trait from Deft Explorer.</text>
+            </feature>
+        </autolevel>
+        <autolevel level="8">
+            <feature optional="YES">
+				<name>Proficiency Versatility</name>
+				<text>(Enhances Ability Score Improvement)</text>
+				<text/>
+				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
+			</feature>
+        </autolevel>
+		<autolevel level="10">
+            <feature optional="YES">
+				<name>Fade Away</name>
+				<text>(Replaces Hide in Plain Sight)</text>
+				<text/>
+				<text>You can use a bonus action to magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.</text>
+				<text>	Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+			</feature>
+            <feature optional="YES">
+                <name>Additional Deft Explorer Trait</name>
+                <text>You gain an additional trait from Deft Explorer.</text>
+            </feature>
+		</autolevel>
+		<autolevel level="12">
+			<feature optional="YES">
+				<name>Proficiency Versatility</name>
+				<text>(Enhances Ability Score Improvement)</text>
+				<text/>
+				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
+			</feature>
+		</autolevel>
+		<autolevel level="16">
+			<feature optional="YES">
+				<name>Proficiency Versatility</name>
+				<text>(Enhances Ability Score Improvement)</text>
+				<text/>
+				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
+			</feature>
+		</autolevel>
+		<autolevel level="19">
+			<feature optional="YES">
+				<name>Proficiency Versatility</name>
+				<text>(Enhances Ability Score Improvement)</text>
+				<text/>
+				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
+				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
+			</feature>
+		</autolevel>
+	</subclass>
+	<spellList class="Ranger Primal Awareness">
+		<index name="Detect Magic"/>
+		<index name="Speak with Animals"/>
+		<index name="Beast Sense"/>
+		<index name="Locate Animals or Plants"/>
+		<index name="Speak with Plants"/>
+		<index name="Locate Creature"/>
+		<index name="Commune with Nature"/>
+	</spellList>
+	<spellList class="Ranger Variant">
+		<index name="Entangle"/>
+		<index name="Searing Smite"/>
+		<index name="Aid"/>
+		<index name="Enhance Ability"/>
+		<index name="Gust of Wind"/>
+		<index name="Magic Weapon"/>
+		<index name="Warding Bond"/>
+		<index name="Blinding Smite"/>
+		<index name="Meld into Stone"/>
+		<index name="Revivify"/>
+		<index name="Tongues"/>
+		<index name="Death Ward"/>
+		<index name="Dominate Beast"/>
+		<index name="Awaken"/>
+		<index name="Greater Restoration"/>
+	</spellList>
+</compendium>

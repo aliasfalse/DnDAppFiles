@@ -100,13 +100,6 @@
 				<text>	When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.</text>
 				<text>	You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</text>
 			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Favored Foe</name>
-				<text>1st-level ranger feature (replaces Favored Enemy)</text>
-				<text/>
-				<text>You can call on your bond with nature to mark a creature as your favored enemy for a time: you know the hunter's mark spell, and Wisdom is your spellcasting ability for it. You can use it a certain number of times without expending a spell slot and without requiring concentration a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
-				<text>	When you gain the Spellcasting feature at 2nd level, hunter's mark doesn't count against the number of ranger spells you know.</text>
-			</feature>
 			<feature>
 				<name>Natural Explorer</name>
 				<text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.</text>
@@ -120,26 +113,6 @@
 				<text>• While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</text>
 				<text/>
 				<text>	You choose additional favored terrain types at 6th and 10th level.</text>
-			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Deft Explorer</name>
-				<text>1st-level ranger feature (replaces Natural Explorer)</text>
-				<text/>
-				<text>You are an unsurpassed explorer and survivor. Choose one of the following benefits, and then choose another one at 6th and 10th level.</text>
-			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Canny</name>
-				<text>Choose one skill: Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don't already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
-				<text>	In addition, thanks to your extensive wandering, you are able to speak, read, and write two languages of your choice.</text>
-			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Roving</name>
-				<text>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</text>
-			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Tireless</name>
-				<text>As an action, you can give yourself a number of temporary hit points equal to 1d10 + your Wisdom modifier. You can use this special action a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
-				<text>	In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</text>
 			</feature>
 		</autolevel>
 		<autolevel level="2">
@@ -160,12 +133,6 @@
 				<text>Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.</text>
 				<text>	Spell save DC = 8 + your proficiency bonus + your Wisdom modifier</text>
 				<text>	Spell attack modifier = your proficiency bonus + your Wisdom modifier</text>
-			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Spell Versatility</name>
-				<text>2nd-level ranger feature (enhances Spellcasting)</text>
-				<text/>
-				<text>Whenever you finish a long rest, you can replace one spell you learned from this Spellcasting feature with another spell from the ranger spell list. The new spell must be the same level as the spell you replace.</text>
 			</feature>
 			<feature>
 				<name>Fighting Style</name>
@@ -221,12 +188,6 @@
 				<text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.</text>
 				<text>	When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.</text>
 			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Martial Versatility</name>
-				<text>2nd-level feature (enhances Fighting Style)</text>
-				<text/>
-				<text>Whenever you gain a level in this class, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style.</text>
-			</feature>
 		</autolevel>
 		<autolevel level="3">
 			<feature>
@@ -237,28 +198,9 @@
 				<name>Primeval Awareness</name>
 				<text>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.</text>
 			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Primal Awareness</name>
-				<text>3rd-level ranger feature (replaces Primeval Awareness)</text>
-				<text/>
-				<text>You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don't already know them, as shown in the Primal Awareness Spells table. These spells don't count against the number of ranger spells you know.</text>
-				<text/>
-				<text>3rd - detect magic, speak with animals</text>
-				<text>5th - beast sense, locate animals or plants</text>
-				<text>9th - speak with plants</text>
-				<text>13th - locate creature</text>
-				<text>17th - commune with nature</text>
-			</feature>
 			<!-- Archetype features -->
 		</autolevel>
 		<autolevel level="4" scoreImprovement="YES">
-			<feature optional="YES" UA="UA">
-				<name>Proficiency Versatility</name>
-				<text>4th-level feature (enhances Ability Score Improvement)</text>
-				<text/>
-				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
-				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
-			</feature>
 		</autolevel>
 		<autolevel level="5">
 			<feature>
@@ -271,20 +213,6 @@
 				<name>Additional Favored Terrains</name>
 				<text>You gain an additional favored terrain.</text>
 			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Canny</name>
-				<text>Choose one skill: Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don't already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
-				<text>	In addition, thanks to your extensive wandering, you are able to speak, read, and write two languages of your choice.</text>
-			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Roving</name>
-				<text>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</text>
-			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Tireless</name>
-				<text>As an action, you can give yourself a number of temporary hit points equal to 1d10 + your Wisdom modifier. You can use this special action a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
-				<text>	In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</text>
-			</feature>
 			<feature>
 				<name>Additional Favored Enemy</name>
 				<text>You choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.</text>
@@ -294,13 +222,6 @@
 			<!-- Archetype features -->
 		</autolevel>
 		<autolevel level="8" scoreImprovement="YES">
-			<feature optional="YES" UA="UA">
-				<name>Proficiency Versatility</name>
-				<text>8th-level feature (enhances Ability Score Improvement)</text>
-				<text/>
-				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
-				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
-			</feature>
 			<feature>
 				<name>Land's Stride</name>
 				<text>Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</text>
@@ -313,43 +234,15 @@
 				<text>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.</text>
 				<text>	Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.</text>
 			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Fade Away</name>
-				<text>10th-level ranger feature (replaces Hide in Plain Sight)</text>
-				<text/>
-				<text>You can use a bonus action to magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.</text>
-				<text>	Once you use this feature, you can't use it again until you finish a short or long rest.</text>
-			</feature>
 			<feature>
 				<name>Additional Favored Terrains</name>
 				<text>You gain an additional favored terrain.</text>
-			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Canny</name>
-				<text>Choose one skill: Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don't already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
-				<text>	In addition, thanks to your extensive wandering, you are able to speak, read, and write two languages of your choice.</text>
-			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Roving</name>
-				<text>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</text>
-			</feature>
-			<feature optional="YES" UA="UA">
-				<name>Tireless</name>
-				<text>As an action, you can give yourself a number of temporary hit points equal to 1d10 + your Wisdom modifier. You can use this special action a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
-				<text>	In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</text>
 			</feature>
 		</autolevel>
 		<autolevel level="11">
 			<!-- Archetype features -->
 		</autolevel>
 		<autolevel level="12" scoreImprovement="YES">
-			<feature optional="YES" UA="UA">
-				<name>Proficiency Versatility</name>
-				<text>12th-level feature (enhances Ability Score Improvement)</text>
-				<text/>
-				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
-				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
-			</feature>
 		</autolevel>
 		<autolevel level="14">
 			<feature>
@@ -365,13 +258,6 @@
 			<!-- Archetype features -->
 		</autolevel>
 		<autolevel level="16" scoreImprovement="YES">
-			<feature optional="YES" UA="UA">
-				<name>Proficiency Versatility</name>
-				<text>16th-level feature (enhances Ability Score Improvement)</text>
-				<text/>
-				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
-				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
-			</feature>
 		</autolevel>
 		<autolevel level="18">
 			<feature>
@@ -380,13 +266,6 @@
 			</feature>
 		</autolevel>
 		<autolevel level="19" scoreImprovement="YES">
-			<feature optional="YES" UA="UA">
-				<name>Proficiency Versatility</name>
-				<text>19th-level feature (enhances Ability Score Improvement)</text>
-				<text/>
-				<text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).</text>
-				<text>	This change represents one of your skills atrophying as you focus on a different skill.</text>
-			</feature>
 		</autolevel>
 		<autolevel level="20">
 			<feature>
@@ -395,30 +274,4 @@
 			</feature>
 		</autolevel>
 	</baseclass>
-	<spellList class="Primal Awareness">
-		<index name="detect magic"/>
-		<index name="speak with animals"/>
-		<index name="beast sense"/>
-		<index name="locate animals or plants"/>
-		<index name="speak with plants"/>
-		<index name="locate creature"/>
-		<index name="commune with nature"/>
-	</spellList>
-	<spellList class="Ranger (Variant)">
-		<index name="entangle"/>
-		<index name="searing smite"/>
-		<index name="aid"/>
-		<index name="enhance ability"/>
-		<index name="gust of wind"/>
-		<index name="magic weapon"/>
-		<index name="warding bond"/>
-		<index name="blinding smite"/>
-		<index name="meld into stone"/>
-		<index name="revivify"/>
-		<index name="tongues"/>
-		<index name="death ward"/>
-		<index name="dominate beast"/>
-		<index name="awaken"/>
-		<index name="greater restoration"/>
-	</spellList>
 </compendium>
